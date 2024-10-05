@@ -1,0 +1,64 @@
+14:51:00: LOG: Files Loading process for script NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools started at 19-May-2022 14:51:00
+14:51:00: Loading files from D:\DeepSeaFishEcologyLab\Saildrone_CCZ\NORI-D\Fall\Mission\EK80
+14:51:00: Loading Snapshot 0 Type Day Stratum   Transect(s) 0
+15:26:02: Non continuous files in Snapshot 0 Type Day Stratum   Transect(s)0
+15:26:02: Applying Denoise
+15:26:30: Applying Denoise
+15:26:43: Applying Denoise
+15:26:57: Applying Denoise
+15:27:10: Applying Denoise
+15:27:24: Applying Denoise
+15:27:37: Applying Denoise
+15:27:51: Applying Denoise
+15:28:04: Applying Denoise
+15:28:17: Applying Denoise
+15:28:31: Applying Denoise
+15:28:44: Applying Denoise
+15:28:58: Applying Denoise
+15:29:12: Applying Denoise
+15:29:26: Applying Denoise
+15:29:39: Applying Denoise
+15:29:53: Applying Denoise
+15:30:07: Applying Denoise
+15:30:19: Applying Denoise
+15:30:27: Applying Denoise
+15:30:41: Applying Denoise
+15:30:54: Applying Denoise
+15:31:08: Applying Denoise
+15:31:21: Applying Denoise
+15:31:35: Applying Denoise
+15:31:48: Applying Denoise
+15:32:03: Applying Denoise
+15:32:17: Applying Denoise
+15:32:31: Applying Denoise
+15:32:44: Applying Denoise
+15:32:50: Applying Denoise
+15:33:00: Applying Denoise
+15:33:15: Applying Denoise
+15:33:29: Applying Denoise
+15:33:44: Applying Denoise
+15:34:00: Applying Denoise
+15:34:16: Applying Denoise
+15:34:30: Applying Denoise
+15:34:41: Applying Denoise
+15:36:19: Files loading process for script NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools finished with:
+0 Warnings
+0 Errors 
+
+
+15:36:19: Files Loading process for script NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools finished at 19-May-2022 15:36:19
+
+15:36:19: Integration process for script NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools started at 19-May-2022 15:36:19
+
+15:36:20: ----------------Integration-----------------
+15:36:20: Integrating Snapshot 0 Type Day Stratum   Transect 0
+15:40:36: Integration process for script NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools finished with:
+0 Warnings
+0 Errors
+
+15:40:36: Integration process for script NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools finished at 19-May-2022 15:40:36
+
+15:40:37: Results saved to D:\DeepSeaFishEcologyLab\Saildrone_CCZ\NORI-D\Fall\Mission\EK80\echo_results\NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools_xls_output.xlsx
+15:40:37: Results saved to D:\DeepSeaFishEcologyLab\Saildrone_CCZ\NORI-D\Fall\Mission\EK80\echo_results\NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools_survey_output.mat
+15:40:37: Results saved to D:\DeepSeaFishEcologyLab\Saildrone_CCZ\NORI-D\Fall\Mission\EK80\echo_results\NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools_mbs_output.txt
+15:40:37: Time elapsed to process  D:\DeepSeaFishEcologyLab\Saildrone_CCZ\NORI-D\Fall\Mission\EK80\echo_scripts\NORI_D_200kHz_FullWC_Daytime_10m_1000m_noSchools.xml.xml: 00:49:37

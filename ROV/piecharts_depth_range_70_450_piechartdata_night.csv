@@ -1,0 +1,113 @@
+label.name,label.count,highertaxon,htmlcolorcode,label.perc
+Sternoptychinae,42,Pisciformes,#67FFFF,2.3863636363636367
+Actinopterygii,94,Pisciformes,#0BFFFF,5.340909090909091
+Beroe,18,Ctenophora,#FFFF17,1.0227272727272727
+Melamphaidae,31,Pisciformes,#48FFFF,1.7613636363636362
+Vinciguerria,50,Pisciformes,#71FFFF,2.840909090909091
+Solmundella bitentaculata,8,Hydrozoa,#4E4EFF,0.45454545454545453
+Calycophorae,4,Siphonophorae,#565656,0.22727272727272727
+Bathocyroe,20,Ctenophora,#FFFF0E,1.1363636363636365
+Salpidae,10,Urochordata,#FF6565,0.5681818181818182
+Vitreledonella richardi,1,Mollusca,#FF3D99,0.056818181818181816
+Magnisudis atlantica,9,Pisciformes,#45FFFF,0.5113636363636364
+Nemichthyidae,5,Pisciformes,#51FFFF,0.2840909090909091
+Beroe forskalii,4,Ctenophora,#FFFF1A,0.22727272727272727
+Bathylagidae,3,Pisciformes,#13FFFF,0.17045454545454544
+Aegina citrea,4,Hydrozoa,#0B0BFF,0.22727272727272727
+Oikopleuridae,362,Urochordata,#FF5959,20.56818181818182
+Amphipoda,4,Crustacea,#23120D,0.22727272727272727
+Polychaeta,10,Annelida,#FF18FF,0.5681818181818182
+Copepoda,235,Crustacea,#2F1A13,13.352272727272727
+Trachylina,8,Hydrozoa,#5252FF,0.45454545454545453
+Sergestidae,33,Crustacea,#a35015,1.875
+Hyperiidea,9,Crustacea,#6F3515,0.5113636363636364
+Malacostraca,12,Crustacea,#836539,0.6818181818181818
+Euphausiidae,42,Crustacea,#483c32,2.3863636363636367
+Leptothecata,53,Hydrozoa,#3333FF,3.0113636363636362
+Ctenophora,18,Ctenophora,#FFFF0A,1.0227272727272727
+Radiozoa,15,Rhizaria,#0FFF0F,0.8522727272727272
+Ostracoda,1,Crustacea,#8F6242,0.056818181818181816
+Salpida,10,Urochordata,#FF6464,0.5681818181818182
+Collodaria,6,Rhizaria,#0CFF0C,0.3409090909090909
+Thalassocalyce inconstans,9,Ctenophora,#FFFF56,0.5113636363636364
+Solmaris,10,Hydrozoa,#4747FF,0.5681818181818182
+Cyphocaris,1,Crustacea,#B3490A,0.056818181818181816
+Pteropoda,2,Mollusca,#FF3193,0.11363636363636363
+Decapoda,38,Crustacea,#a5682a,2.159090909090909
+Narcomedusae,4,Hydrozoa,#3737FF,0.22727272727272727
+Mollusca,1,Mollusca,#FF0A80,0.056818181818181816
+Solmissus,17,Hydrozoa,#4949FF,0.9659090909090908
+Myctophidae,4,Pisciformes,#4DFFFF,0.22727272727272727
+Teleostei,7,Pisciformes,#6CFFFF,0.3977272727272727
+Hydrozoa,27,Hydrozoa,#3131FF,1.5340909090909092
+Metcalfina hexagona,2,Urochordata,#FF6C6C,0.11363636363636363
+Diphyidae,3,Siphonophorae,#cbcbcb,0.17045454545454544
+Scopelarchidae,1,Pisciformes,#5EFFFF,0.056818181818181816
+Bolitaena pygmaea,1,Mollusca,#FF1083,0.056818181818181816
+Bolitaenidae,1,Mollusca,#FF489F,0.056818181818181816
+Abraliopsis (Boreabraliopsis) felis,2,Mollusca,#FF459D,0.11363636363636363
+Physonectae,4,Siphonophorae,#717171,0.22727272727272727
+Oegopsida,14,Mollusca,#FF2D91,0.7954545454545454
+Cuninidae,4,Hydrozoa,#6464FF,0.22727272727272727
+Perciformes,3,Pisciformes,#76FFFF,0.17045454545454544
+Brama,1,Pisciformes,#19FFFF,0.056818181818181816
+Sternoptychidae,2,Pisciformes,#66FFFF,0.11363636363636363
+Trachymedusae,24,Hydrozoa,#5353FF,1.3636363636363635
+Cerianthidae,3,Cnidaria,#FF983B,0.17045454545454544
+Rhopalonematidae,52,Hydrozoa,#4343FF,2.9545454545454546
+Chaetognatha,6,Chaetognatha,#FF2DFF,0.3409090909090909
+Lobata,18,Ctenophora,#FFFF43,1.0227272727272727
+Doliolida,4,Urochordata,#FF4747,0.22727272727272727
+Avocettina,1,Pisciformes,#0FFFFF,0.056818181818181816
+Haliscera conica,1,Hydrozoa,#5A5AFF,0.056818181818181816
+Nanomia bijuga,1,Siphonophorae,#b0b0b0,0.056818181818181816
+Pelagia noctiluca,4,Cnidaria,#FF8C22,0.22727272727272727
+Cydippida,7,Ctenophora,#FFFF29,0.3977272727272727
+Medusozoa,77,Cnidaria,#FF891D,4.375
+Crustacea,40,Crustacea,#0D386F,2.272727272727273
+Eucarida,4,Crustacea,#AC6C3F,0.22727272727272727
+Halitrephes,1,Hydrozoa,#2E2EFF,0.056818181818181816
+Liriope tetraphylla,3,Hydrozoa,#3535FF,0.17045454545454544
+Siphonophorae,48,Siphonophorae,#050505,2.727272727272727
+Prayinae,3,Siphonophorae,#444444,0.17045454545454544
+Phronima,1,Crustacea,#946E45,0.056818181818181816
+Phronima sedentaria,1,Crustacea,#956041,0.056818181818181816
+Sapphirinidae,4,Crustacea,#a08a77,0.22727272727272727
+Sternoptyx,45,Pisciformes,#68FFFF,2.556818181818182
+Ocyropsis,1,Ctenophora,#FFFF4C,0.056818181818181816
+Nemichthys,1,Pisciformes,#52FFFF,0.056818181818181816
+Pyrosoma,1,Urochordata,#FF5E5E,0.056818181818181816
+Cnidaria,21,Cnidaria,#FF800A,1.1931818181818183
+Cephalopoda,4,Mollusca,#FF1183,0.22727272727272727
+Gempylidae,1,Pisciformes,#33FFFF,0.056818181818181816
+Appendicularia,3,Urochordata,#FF4343,0.17045454545454544
+Erenna laciniata,1,Siphonophorae,#dddddd,0.056818181818181816
+Praya,10,Siphonophorae,#686868,0.5681818181818182
+Bargmannia,2,Siphonophorae,#3b3b3b,0.11363636363636363
+Thunnini,1,Pisciformes,#6EFFFF,0.056818181818181816
+Carangidae,1,Pisciformes,#1BFFFF,0.056818181818181816
+Oikopleura,28,Urochordata,#FF5858,1.5909090909090908
+Thalassocalyce,7,Ctenophora,#FFFF55,0.3977272727272727
+Pelagia,5,Cnidaria,#FF8B21,0.2840909090909091
+Erenna,2,Siphonophorae,#d4d4d4,0.11363636363636363
+Coccorella atrata,1,Pisciformes,#24FFFF,0.056818181818181816
+Prayidae,4,Siphonophorae,#4d4d4d,0.22727272727272727
+Doliolidae,3,Urochordata,#FF4848,0.17045454545454544
+Siphonophorida,1,Crustacea,#a52a2a,0.056818181818181816
+Aegina,3,Hydrozoa,#0A0AFF,0.17045454545454544
+Pseudusa,2,Urochordata,#FF5C5C,0.11363636363636363
+Beroe cucumis,9,Ctenophora,#FFFF19,0.5113636363636364
+Cyclothone,5,Pisciformes,#2AFFFF,0.2840909090909091
+Nanomia,2,Siphonophorae,#b9b9b9,0.11363636363636363
+Bathyctena,1,Ctenophora,#FFFF13,0.056818181818181816
+Pegantha,1,Hydrozoa,#3E3EFF,0.056818181818181816
+Rosacea,1,Siphonophorae,#3b3b3b,0.056818181818181816
+Agalma okeni,1,Siphonophorae,#171717,0.056818181818181816
+Halicreatidae,2,Hydrozoa,#2B2BFF,0.11363636363636363
+Bathocyroidae,2,Ctenophora,#FFFF12,0.11363636363636363
+Cestum,1,Ctenophora,#FFFF20,0.056818181818181816
+Pseudusa bostigrinus,1,Urochordata,#FF5D5D,0.056818181818181816
+Magnisudis,1,Pisciformes,#44FFFF,0.056818181818181816
+Tuscaroridae,1,Rhizaria,#10FF10,0.056818181818181816
+Foraminifera,1,Rhizaria,#0DFF0D,0.056818181818181816
+Pleurobrachia,1,Ctenophora,#FFFF51,0.056818181818181816

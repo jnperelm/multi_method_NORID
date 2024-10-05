@@ -1,0 +1,58 @@
+09:59:00: LOG: Files Loading process for script NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools started at 11-Oct-2021 09:59:00
+09:59:00: Loading files from D:\Documents\Recovered_EK80_Spring2021\EK80
+09:59:00: Loading Snapshot 0 Type Night Stratum   Transect(s) 0
+10:39:02: Non continuous files in Snapshot 0 Type Night Stratum   Transect(s)0
+10:39:03: Applying Denoise
+10:40:26: Applying Denoise
+10:41:31: Applying Denoise
+10:42:38: Applying Denoise
+10:43:39: Applying Denoise
+10:44:45: Applying Denoise
+10:50:41: Applying Denoise
+10:51:33: Applying Denoise
+10:52:41: Applying Denoise
+10:53:49: Applying Denoise
+10:54:57: Applying Denoise
+10:56:02: Applying Denoise
+10:57:09: Applying Denoise
+10:58:16: Applying Denoise
+10:59:24: Applying Denoise
+11:00:32: Applying Denoise
+11:01:40: Applying Denoise
+11:02:51: Applying Denoise
+11:03:58: Applying Denoise
+11:05:08: Applying Denoise
+11:06:16: Applying Denoise
+11:07:17: Applying Denoise
+11:08:24: Applying Denoise
+11:09:32: Applying Denoise
+11:10:41: Applying Denoise
+11:11:49: Applying Denoise
+11:12:57: Applying Denoise
+11:14:04: Applying Denoise
+11:15:11: Applying Denoise
+11:16:17: Applying Denoise
+11:17:25: Applying Denoise
+11:18:35: Applying Denoise
+11:19:44: Applying Denoise
+11:22:46: Files loading process for script NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools finished with:
+0 Warnings
+0 Errors 
+
+
+11:22:46: Files Loading process for script NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools finished at 11-Oct-2021 11:22:46
+
+11:22:46: Integration process for script NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools started at 11-Oct-2021 11:22:46
+
+11:22:48: ----------------Integration-----------------
+11:22:48: Integrating Snapshot 0 Type Night Stratum   Transect 0
+11:38:52: Integration process for script NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools finished with:
+0 Warnings
+0 Errors
+
+11:38:52: Integration process for script NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools finished at 11-Oct-2021 11:38:52
+
+11:38:55: Results saved to D:\Documents\Recovered_EK80_Spring2021\EK80\echo_results\NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools_xls_output.xlsx
+11:38:55: Results saved to D:\Documents\Recovered_EK80_Spring2021\EK80\echo_results\NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools_survey_output.mat
+11:38:56: Results saved to D:\Documents\Recovered_EK80_Spring2021\EK80\echo_results\NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools_mbs_output.txt
+11:38:56: Time elapsed to process  D:\Documents\Recovered_EK80_Spring2021\EK80\echo_scripts\NORI_D_38kHz_FullWC_Nighttime_10m_1000m_noSchools.xml: 01:39:56

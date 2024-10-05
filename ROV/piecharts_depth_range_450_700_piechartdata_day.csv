@@ -1,0 +1,73 @@
+label.name,label.count,highertaxon,htmlcolorcode,label.perc
+Melamphaidae,51,Pisciformes,#48FFFF,13.076923076923078
+Magnisudis atlantica,18,Pisciformes,#45FFFF,4.615384615384616
+Idiacanthus,3,Pisciformes,#36FFFF,0.7692307692307693
+Scopelengys tristis,9,Pisciformes,#5FFFFF,2.307692307692308
+Cyclothone,37,Pisciformes,#2AFFFF,9.487179487179487
+Bathylagidae,1,Pisciformes,#13FFFF,0.2564102564102564
+Serrivomeridae,3,Pisciformes,#61FFFF,0.7692307692307693
+Solmundella bitentaculata,4,Hydrozoa,#4E4EFF,1.0256410256410255
+Lopadorhynchidae,5,Annelida,#FF11FF,1.282051282051282
+Myctophidae,1,Pisciformes,#4DFFFF,0.2564102564102564
+Vinciguerria,3,Pisciformes,#71FFFF,0.7692307692307693
+Nemichthyidae,5,Pisciformes,#51FFFF,1.282051282051282
+Periphyllopsis braueri,4,Cnidaria,#FF8F28,1.0256410256410255
+Nemichthys,4,Pisciformes,#52FFFF,1.0256410256410255
+Cranchiidae,4,Mollusca,#FF1E8A,1.0256410256410255
+Leptothecata,2,Hydrozoa,#3333FF,0.5128205128205128
+Sternoptychinae,1,Pisciformes,#67FFFF,0.2564102564102564
+Aeginura grimaldii,4,Hydrozoa,#0F0FFF,1.0256410256410255
+Cydippida,3,Ctenophora,#FFFF29,0.7692307692307693
+Bolitaenidae,1,Mollusca,#FF489F,0.2564102564102564
+Physonectae,2,Siphonophorae,#717171,0.5128205128205128
+Vampyroctena,1,Ctenophora,#FFFF59,0.2564102564102564
+Abraliopsis (Boreabraliopsis) felis,3,Mollusca,#FF459D,0.7692307692307693
+Decapoda,14,Crustacea,#a5682a,3.5897435897435894
+Hydrozoa,6,Hydrozoa,#3131FF,1.5384615384615385
+Actinopterygii,60,Pisciformes,#0BFFFF,15.384615384615385
+Trachylina,1,Hydrozoa,#5252FF,0.2564102564102564
+Rhopalonematidae,2,Hydrozoa,#4343FF,0.5128205128205128
+Halicreatidae,4,Hydrozoa,#2B2BFF,1.0256410256410255
+Sternoptyx,2,Pisciformes,#68FFFF,0.5128205128205128
+Sergestidae,2,Crustacea,#a35015,0.5128205128205128
+Oikopleuridae,5,Urochordata,#FF5959,1.282051282051282
+Oegopsida,3,Mollusca,#FF2D91,0.7692307692307693
+Siphonophorae,5,Siphonophorae,#050505,1.282051282051282
+Bathyctena,2,Ctenophora,#FFFF13,0.5128205128205128
+Trachymedusae,1,Hydrozoa,#5353FF,0.2564102564102564
+Copepoda,1,Crustacea,#2F1A13,0.2564102564102564
+Crustacea,2,Crustacea,#0D386F,0.5128205128205128
+Diphyidae,1,Siphonophorae,#cbcbcb,0.2564102564102564
+Bathylaginae,1,Pisciformes,#14FFFF,0.2564102564102564
+Polychaeta,8,Annelida,#FF18FF,2.051282051282051
+Serrivomer,3,Pisciformes,#60FFFF,0.7692307692307693
+Atolla wyvillei,1,Cnidaria,#FF8310,0.2564102564102564
+Nemertea,1,Nemertea,#FF24FF,0.2564102564102564
+Caridea,1,Crustacea,#2D1D16,0.2564102564102564
+Solmissus,3,Hydrozoa,#4949FF,0.7692307692307693
+Teleostei,1,Pisciformes,#6CFFFF,0.2564102564102564
+Atolla,1,Cnidaria,#FF820E,0.2564102564102564
+Salpida,2,Urochordata,#FF6464,0.5128205128205128
+Radiozoa,1,Rhizaria,#0FFF0F,0.2564102564102564
+Prayinae,3,Siphonophorae,#444444,0.7692307692307693
+Cephalopoda,2,Mollusca,#FF1183,0.5128205128205128
+Mitrocomidae,1,Hydrozoa,#3636FF,0.2564102564102564
+Deepstaria,4,Cnidaria,#FF8719,1.0256410256410255
+Cnidaria,5,Cnidaria,#FF800A,1.282051282051282
+Chaetognatha,3,Chaetognatha,#FF2DFF,0.7692307692307693
+Teuthoidea,1,Mollusca,#FF3796,0.2564102564102564
+Medusozoa,22,Cnidaria,#FF891D,5.641025641025641
+Calycophorae,1,Siphonophorae,#565656,0.2564102564102564
+Poeobius meseres,1,Annelida,#FF17FF,0.2564102564102564
+Munnopsididae,1,Crustacea,#875632,0.2564102564102564
+Halicreas minimum,2,Hydrozoa,#2A2AFF,0.5128205128205128
+Tuscaroridae,1,Rhizaria,#10FF10,0.2564102564102564
+Lampanyctus,2,Pisciformes,#3FFFFF,0.5128205128205128
+Ostracoda,1,Crustacea,#8F6242,0.2564102564102564
+Oikopleura,13,Urochordata,#FF5858,3.3333333333333335
+Lopadorhynchus,16,Annelida,#FF12FF,4.102564102564102
+Ctenophora,4,Ctenophora,#FFFF0A,1.0256410256410255
+Praya,1,Siphonophorae,#686868,0.2564102564102564
+Isopoda,1,Crustacea,#74431D,0.2564102564102564
+Arctapodema,1,Hydrozoa,#1717FF,0.2564102564102564
+Cypridinidae,1,Crustacea,#311609,0.2564102564102564

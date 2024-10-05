@@ -1,0 +1,63 @@
+label.name,label.count,highertaxon,htmlcolorcode,label.perc
+Carangidae,14,Pisciformes,#1BFFFF,3.0837004405286343
+Myctophidae,3,Pisciformes,#4DFFFF,0.6607929515418502
+Vinciguerria,227,Pisciformes,#71FFFF,50.0
+Bathylagidae,19,Pisciformes,#13FFFF,4.185022026431718
+Oegopsida,9,Mollusca,#FF2D91,1.9823788546255507
+Beroe,4,Ctenophora,#FFFF17,0.881057268722467
+Beroe cucumis,3,Ctenophora,#FFFF19,0.6607929515418502
+Pelagia noctiluca,2,Cnidaria,#FF8C22,0.4405286343612335
+Cranchiidae,6,Mollusca,#FF1E8A,1.3215859030837005
+Elagatis bipinnulata,10,Pisciformes,#30FFFF,2.2026431718061676
+Diplophos taenia,1,Pisciformes,#2DFFFF,0.22026431718061676
+Prionace glauca,1,Pisciformes,#59FFFF,0.22026431718061676
+Decapterus macarellus,1,Pisciformes,#2BFFFF,0.22026431718061676
+Carcharhinus longimanus,1,Pisciformes,#1EFFFF,0.22026431718061676
+Coryphaena hippurus,14,Pisciformes,#27FFFF,3.0837004405286343
+Scombridae,2,Pisciformes,#5DFFFF,0.4405286343612335
+Melamphaidae,2,Pisciformes,#48FFFF,0.4405286343612335
+Carcharhinus falciformis,1,Pisciformes,#1DFFFF,0.22026431718061676
+Thunnus,9,Pisciformes,#6FFFFF,1.9823788546255507
+Naucrates ductor,7,Pisciformes,#50FFFF,1.5418502202643172
+Solmaris,8,Hydrozoa,#4747FF,1.762114537444934
+Cestum veneris,2,Ctenophora,#FFFF21,0.4405286343612335
+Cuninidae,1,Hydrozoa,#6464FF,0.22026431718061676
+Medusozoa,1,Cnidaria,#FF891D,0.22026431718061676
+Brama,6,Pisciformes,#19FFFF,1.3215859030837005
+Doliolidae,3,Urochordata,#FF4848,0.6607929515418502
+Paralepididae,1,Pisciformes,#57FFFF,0.22026431718061676
+Thunnus obesus,9,Pisciformes,#70FFFF,1.9823788546255507
+Canthidermis maculata,2,Pisciformes,#77FFFF,0.4405286343612335
+Actinopterygii,13,Pisciformes,#0BFFFF,2.8634361233480177
+Siphonophorae,10,Siphonophorae,#050505,2.2026431718061676
+Aurelia,1,Cnidaria,#FF8311,0.22026431718061676
+Ommastrephidae,3,Mollusca,#FF2F92,0.6607929515418502
+Lobata,1,Ctenophora,#FFFF43,0.22026431718061676
+Solmissus,3,Hydrozoa,#4949FF,0.6607929515418502
+Apolemia,1,Siphonophorae,#202020,0.22026431718061676
+Hydrozoa,1,Hydrozoa,#3131FF,0.22026431718061676
+Physonectae,1,Siphonophorae,#717171,0.22026431718061676
+Cydippida,1,Ctenophora,#FFFF29,0.22026431718061676
+Pleurobrachia,1,Ctenophora,#FFFF51,0.22026431718061676
+Cephalopoda,8,Mollusca,#FF1183,1.762114537444934
+Todarodes,1,Mollusca,#FF3A98,0.22026431718061676
+Ctenophora,3,Ctenophora,#FFFF0A,0.6607929515418502
+Teleostei,2,Pisciformes,#6CFFFF,0.4405286343612335
+Nanomia,2,Siphonophorae,#b9b9b9,0.4405286343612335
+Siphonophorida,1,Crustacea,#a52a2a,0.22026431718061676
+Oikopleuridae,1,Urochordata,#FF5959,0.22026431718061676
+Prayinae,1,Siphonophorae,#444444,0.22026431718061676
+Exocoetinae,1,Pisciformes,#32FFFF,0.22026431718061676
+Katsuwonus pelamis,5,Pisciformes,#3CFFFF,1.1013215859030838
+Leucothea,2,Ctenophora,#FFFF40,0.4405286343612335
+Xanthichthys,1,Pisciformes,#72FFFF,0.22026431718061676
+Narcomedusae,2,Hydrozoa,#3737FF,0.4405286343612335
+Pelagia,2,Cnidaria,#FF8B21,0.4405286343612335
+Crustacea,1,Crustacea,#0D386F,0.22026431718061676
+Pseudusa,1,Urochordata,#FF5C5C,0.22026431718061676
+Salpidae,7,Urochordata,#FF6565,1.5418502202643172
+Leptothecata,4,Hydrozoa,#3333FF,0.881057268722467
+Oikopleura,1,Urochordata,#FF5858,0.22026431718061676
+Helicosalpa,1,Urochordata,#FF5151,0.22026431718061676
+Copepoda,1,Crustacea,#2F1A13,0.22026431718061676
+Squaliformes,1,Pisciformes,#64FFFF,0.22026431718061676
